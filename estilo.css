@@ -1,0 +1,28 @@
+.cor-fundo{
+    background-color: darkblue;
+    padding: 3%;
+    color: aliceblue;
+    text-align: center; 
+   
+}
+
+body{
+    background-color: rgb(118, 175, 179);
+    padding: center;
+}
+  
+.topo{
+
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+
+
+}
+
+.form-inline{
+
+    padding-bottom: 50%;
+}
